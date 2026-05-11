@@ -1,15 +1,9 @@
-# ZenithLinuxLegacy
+# Zenith Linux Legacy
 
 ## Overview
-This repository is part of the TwilightOnSol ecosystem. It has been audited and refactored for better performance and maintainability.
+A specialized version of the Zenith anti-AFK tool, optimized for Linux environments. It provides the same reliable automation for Roblox players on Linux systems.
 
-## Project Structure
-- RobloxPlayerInstaller.exe
-- ZenithAFK.py
-- afk_bot.log
-- client_broke.png
-- disconnect_button.png
-- loader.sh
-- run.bat
-- README.md
-- Manus AI feedback & overview
+## Features
+- **Linux Optimization**: Tailored for performance on Linux distributions.
+- **Integrated Installer**: Includes scripts for easy setup and execution.
+- **Activity Simulation**: Prevents disconnects during long gaming sessions.
